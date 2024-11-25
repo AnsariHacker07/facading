@@ -4,7 +4,7 @@ import pyshorteners
 from urllib.parse import urlparse
 import re
 
-instagram_url = 'https://imstagram.com/hacker_ansari_07'
+instagram_url = 'https://instagram.com/hacker_ansari_07'
 github = 'https://github.com/AnsariHacker07'
 
 VERSION = '1.0.0'
